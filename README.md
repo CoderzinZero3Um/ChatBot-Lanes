@@ -40,3 +40,5 @@ Ajuste Grupos Faltava enviar o whatsapp no ticket durante emissao de socket
 Ajuste validaçao fila user
 Mostrar ID de fila e usuário nas páginas de cadastro
 Limpeza de console.log no back
+
+sudo apt install -y git && git clone https://github.com/zaltvapp/instalador-whaticket2024 && sudo chmod -R 777 instalador-whaticket2024 && cd instalador-whaticket2024 && sudo ./install_primaria
